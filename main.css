@@ -1,0 +1,19 @@
+.A {
+    width: 700px;
+    background-color: black;
+    height: 45px;
+    margin: 0 auto;
+    border-radius: 20px;
+    text-align: center;
+    border: dotted red;
+}
+
+.B {
+    margin-top: -65px;
+    color: red;
+    text-align: center;
+}
+
+#ds {
+    font-size: 18px;
+}
